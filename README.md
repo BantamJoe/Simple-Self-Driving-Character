@@ -52,7 +52,7 @@ Then you need to choose zone on "Choose zone" menu. And finally you get playing 
 
 ![alt text](https://github.com/meiirbergali24/Simple-Self-Driving-Character/blob/master/Images/DataCollectingPlaying.png "Data collecting playing screen")
 
-The data collected by simulating ["lidar"](https://en.wikipedia.org/wiki/Lidar). Simulation provides by ray casting as on [Udacity self driving car simulator](https://github.com/udacity/self-driving-car-sim). It has vertical slice consist of 64 rays. Rays start at +12.7 degrees from the horizon, to -37.3 degrees (picture A). It has 180 degree view range by horizontal, from left to right (picture B). So we get by one slice for each of 180 degree. So we get pictures with a resolution of 180х64 pixels, with green channel only (picture C). Each pixel displays the distance from the character to the object. The maximal distance is 120. 
+The data collected by simulating ["lidar"](https://en.wikipedia.org/wiki/Lidar). Simulation provides by ray casting as on [Udacity self driving car simulator](https://github.com/udacity/self-driving-car-sim). It has vertical slice consist of 64 rays. Rays start at +12.7 degrees from the horizon, to -37.3 degrees (picture A). It has 180 degree view range by horizontal, from left to right (picture B). Also we have by one slice for each of 180 degree. So we get pictures with a resolution of 180х64 pixels, and green channel only (picture C). Each pixel displays the distance from the character to the object. The maximal distance is 120. 
 
 ##### *Picture A*
 ![alt text](https://github.com/meiirbergali24/Simple-Self-Driving-Character/blob/master/Images/Slice.png "Slice")
