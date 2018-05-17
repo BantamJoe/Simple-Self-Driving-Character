@@ -75,7 +75,7 @@ For each zone created it's own folder called "Zone_name Dataset" with subfolder 
 
 There are four directions:
 
-| Label  |    Name     |   Button    |
+| Label  |  Command    |   Button    |
 |:------:|:-----------:|:-----------:|
 |    1   |   Forward   |  Up Arrow   |
 |    2   |  Rightward  | Right Arrow |
