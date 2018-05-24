@@ -1,7 +1,5 @@
 # Simple-Self-Driving-Character
 
-> Bismillahi Rahmani Rahim. All praise be to Allah, Who teaches human to His Kalam and gives him a skills. *This expression is **not** propaganda. It expresses only a tribute of respect and gratitude of the author to the true Creator.*
-
 Simple self driving character project on Unity, with machine learning was inspired by [Udacity self driving car simulator](https://github.com/udacity/self-driving-car-sim). 
 
 The aim of this project - is to help people to upgrade their skills, increase knowledge and share some ideas in machine learning. 
